@@ -6,7 +6,7 @@
 
 # API Key
 Everything needed to get you started with the api is here: [The Movie Database API](https://developers.themoviedb.org/3/getting-started/introduction).
-You need to create an account there. \
+You need to create an account there. 
 
 After receiving the api key, make a `.env` file in the root directory. 
 In the .env file make a variable:
